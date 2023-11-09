@@ -20,16 +20,6 @@ import React from "react";
 
 export default Counter;
 
-// class Counter extends React.Component{
-//     render() {
-//         return<div>
-//         <span>Test</span>
-//                     </div>
-//     }
-// }
-
-// export default Counter
-
 
 
 
